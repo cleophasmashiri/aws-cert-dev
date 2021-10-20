@@ -5,6 +5,8 @@
 <br>
 <details>
 
+[Code](https://github.com/cleophasmashiri/aws-cert-dev/blob/master/chapter01/polly_example.py)
+<br>
 Run aws configure to add follow the prompt
 
 <br>
